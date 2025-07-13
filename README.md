@@ -1,2 +1,27 @@
-# web_technologies
-Course materials, projects, and assignments for the Web Technologies course at American International University-Bangladesh (AIUB). Covers HTML, CSS, JavaScript, jQuery, and PHP.
+# Web Technologies – AIUB
+
+This repository contains all course materials, assignments, projects, and code samples for the **Web Technologies** course at **American International University-Bangladesh (AIUB)**.
+
+## 🌐 Topics Covered
+
+- ✅ HTML5 & Semantic Markup  
+- ✅ CSS3 & Responsive Design  
+- ✅ JavaScript (Core Concepts & DOM Manipulation)  
+- ✅ jQuery (DOM, Events, Effects, AJAX)  
+- ✅ PHP (Form Handling, Server-side Scripting)  
+- ✅ Basic Web Application Development
+
+## 📁 Structure
+
+- `/assignments` – Weekly assignments and solutions  
+- `/projects` – Course projects and demos  
+- `/notes` – Lecture notes and topic summaries  
+- `/examples` – Code examples for HTML, CSS, JS, jQuery, PHP  
+
+## 🎓 Institution  
+**American International University-Bangladesh (AIUB)**  
+Department of Computer Science and Engineering
+
+---
+
+📌 This repository is maintained for learning and academic purposes.
