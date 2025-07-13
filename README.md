@@ -6,9 +6,9 @@ This repository contains all course materials, assignments, projects, and code s
 
 - ✅ HTML5 & Semantic Markup  
 - ✅ CSS3 & Responsive Design  
-- ✅ JavaScript (Core Concepts & DOM Manipulation)  
-- ✅ jQuery (DOM, Events, Effects, AJAX)  
-- ✅ PHP (Form Handling, Server-side Scripting)  
+- ✅ JavaScript
+- ✅ jQuery 
+- ✅ PHP 
 - ✅ Basic Web Application Development
 
 ## 📁 Structure
