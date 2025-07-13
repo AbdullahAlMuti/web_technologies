@@ -1,6 +1,9 @@
 # Web Technologies – AIUB
 
 This repository contains all course materials, assignments, projects, and code samples for the **Web Technologies** course at **American International University-Bangladesh (AIUB)**.
+Name : MD. ABDULLAH AL MUTI
+ID   : 22-47605-2
+EMAIL: internetstudents.abdullah@gmail.com
 
 ## 🌐 Topics Covered
 
